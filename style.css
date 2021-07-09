@@ -1,0 +1,341 @@
+/*GENERAL*/
+
+html,body {
+    font-family: Raleway;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.around {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.between {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.decoNone {
+    text-decoration: none;
+}
+
+.texteGras {
+    font-weight: bold;
+}
+
+.colorBleu {
+    color: #0065fc;
+}
+
+.colorBleuClair {
+    color:#deebff
+}
+
+.colorGris {
+    color:#f2f2f2
+}
+
+.backBleu {
+    background-color: #0065fc;
+}
+
+.backBleuClair {
+    background-color: #deebff;
+}
+
+.backGris {
+    background-color:#f2f2f2
+}
+.bordureNone
+{
+    border:none
+}
+
+/*NAV*/
+
+.sizeNav {
+    height: 100px;
+}
+
+.sizeLiens {
+    width: 35%;
+}
+
+.sizeLien {
+    width: 140px;
+    height: 99px;
+}
+
+
+.colorLien2 {
+    color:black;
+}
+
+.bordureNav {
+    border-top: 1px solid blue;
+}
+
+.bordureNav23 {
+    border-top: 1px solid transparent;
+}
+
+.margPic {
+    margin-bottom: 7x;
+}
+
+/*HEADER*/
+
+.bordureSearch {
+    width: 400px;
+    border-radius: 10px;
+    border: 0.5px solid #f2f2f2;
+}
+
+.iconSize {
+    height: 50px;
+    width: 50px;
+    border-radius: 10px 0 0 10px;
+}
+
+.recherche {
+    height: 50px;
+    width: 230px;
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+}
+
+.paddingSearch {
+    padding-left: 20px;
+}
+
+.buttonSearch {
+    height: 50px;
+    width: 120px;
+    color:white;
+    cursor:pointer;
+    border-radius: 0 10px 10px 0;
+}
+
+/* Filtres */
+
+.margF {
+    margin-bottom: 40px;
+    margin-top: 50px;
+}
+
+.alignFiltre {
+display: flex;
+align-items: center;
+}
+
+.margright {
+    margin-right: 20px;
+}
+
+.backlogo {
+    background-color: #deebff;
+    color: #0065fc;
+    height: 45px;
+    width: 45px;
+    border-radius: 25px;
+    
+}
+
+
+.marginicons {
+    margin-right: 10px;
+}
+
+.paddingcenter {
+    padding-left: 15px;
+}
+
+
+
+
+
+.iconFs {
+    
+    border-radius: 25px;
+    width: 52px;
+    height: 52px;
+    color:#0065fc;
+    background-color: #deebff;
+}
+
+
+
+.borderF {
+    border:2px solid #f2f2f2;
+    height: 50px;
+    border-radius: 30px; 
+    margin-right: 20px;
+}
+
+/* hebergementpop*/
+.paddingtext {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.marginrightinfo {
+    margin-right: 10px;
+}
+
+.colorinfo {
+    color: #0065fc;
+    width: 20px;
+    height: 20px;
+    border-radius: 25px;
+    border: 2px solid #f2f2f2;
+
+}
+
+.sizeHebergement {
+    height: 900px;
+    width: 70%;
+    border-radius: 10px;
+    margin-right: 20px;
+    
+}
+
+.sizepopulaires {
+    height: 900px;
+    width: 30%;
+    border-radius: 10px;
+    margin-left: 20px;
+    
+}
+
+.sizeimg {
+    width: 500px;
+    height: 200px;
+    border-radius: 25px 25px 0 0;
+}
+
+
+.background {
+    padding: 4px;
+    border-radius: 25px;
+    background-color: white;
+}
+
+.padTexte {
+    padding-left: 50px;
+}
+
+
+.backback {
+    padding: 4px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.marginbot {
+    margin-bottom: 25px;
+}
+
+.sizeimgpop {
+    height: 220px;
+    width: 250px;
+    border-radius: 25px 0 0 25px;
+}
+
+.paddingpop {
+    padding-left: 40px;
+}
+.align1 {
+    display: flex;
+    align-items: center;
+}
+.paddingimgright {
+    padding-right: 20px;
+}
+
+.topdiv {
+    height: 50px;
+}
+
+.direction {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.taileldiv {
+    height: 235px;
+}
+
+.backback2 {
+    padding: 1px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.marginleft1 {
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+.paddingleft2 {
+    padding-left: 5px;
+}
+
+
+.positionafficher {
+    padding-left: 45px;
+    padding-top: 60px;
+}
+
+.positiontexteHeberg {
+    padding-left: 10px;
+}
+
+.paddingchart {
+    padding-right: 50px;
+}
+
+.colorstarsblue {
+    color: #0065fc;
+}
+
+.colorstarsgrey {
+    color : grey;
+}
+
+.paddingtopstars {
+  padding-top: 65px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
